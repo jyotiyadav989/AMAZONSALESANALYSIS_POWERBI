@@ -1,1 +1,2 @@
 # AMAZONSALESANALYSIS_POWERBI
+Designed and developed an interactive Amazon sales dashboard using data visualization techniques. Implemented various card components to display key metrics including sales projections, product quantities, and KPIs. Utilized charts and graphs to represent sales segmentation, market breakdown, and profit analysis. Integrated a geographical map to illustrate global sales distribution. This comprehensive dashboard provides a quick overview of critical business insights for informed decision-making.
